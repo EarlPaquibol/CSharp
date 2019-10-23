@@ -1,0 +1,19 @@
+﻿<Window x:Class="dotNet.viewPlayers"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:dotNet"
+        mc:Ignorable="d"
+        Title="Contestants" Height="442.623" Width="292.115">
+    <Grid Margin="0,0,332,0">
+        <RichTextBox x:Name="rtb" HorizontalAlignment="Left" Height="417" Margin="0,0,-285,-5" VerticalAlignment="Top" Width="285" Background="#FF2DBEC5">
+            <FlowDocument>
+                <Paragraph>
+                    <Run FontSize="18" FontFamily="Rockwell Extra Bold" Text="Paraone"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>

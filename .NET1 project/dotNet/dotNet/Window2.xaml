@@ -1,0 +1,12 @@
+﻿<Window x:Class="dotNet.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:dotNet"
+        mc:Ignorable="d"
+        Title="Error" Height="169.355" Width="367.743">
+    <Grid Margin="0,0,-2,-1" Background="#FF2DBEC5">
+        <Label x:Name="errorLabel" Content="Error message" HorizontalAlignment="Left" Margin="79,54,0,0" VerticalAlignment="Top" Height="34" Width="204" FontSize="16"/>
+    </Grid>
+</Window>
