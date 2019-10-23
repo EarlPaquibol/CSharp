@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Deserialize_Serialize/1.0.0": {
+        "runtime": {
+          "Deserialize_Serialize.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deserialize_Serialize/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

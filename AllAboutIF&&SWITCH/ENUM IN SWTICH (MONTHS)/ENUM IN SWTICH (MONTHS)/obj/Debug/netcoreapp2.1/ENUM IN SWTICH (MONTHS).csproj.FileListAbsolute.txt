@@ -1,0 +1,11 @@
+C:\Users\earli\source\repos\ENUM IN SWTICH (MONTHS)\ENUM IN SWTICH (MONTHS)\bin\Debug\netcoreapp2.1\ENUM IN SWTICH (MONTHS).deps.json
+C:\Users\earli\source\repos\ENUM IN SWTICH (MONTHS)\ENUM IN SWTICH (MONTHS)\bin\Debug\netcoreapp2.1\ENUM IN SWTICH (MONTHS).runtimeconfig.json
+C:\Users\earli\source\repos\ENUM IN SWTICH (MONTHS)\ENUM IN SWTICH (MONTHS)\bin\Debug\netcoreapp2.1\ENUM IN SWTICH (MONTHS).runtimeconfig.dev.json
+C:\Users\earli\source\repos\ENUM IN SWTICH (MONTHS)\ENUM IN SWTICH (MONTHS)\bin\Debug\netcoreapp2.1\ENUM IN SWTICH (MONTHS).dll
+C:\Users\earli\source\repos\ENUM IN SWTICH (MONTHS)\ENUM IN SWTICH (MONTHS)\bin\Debug\netcoreapp2.1\ENUM IN SWTICH (MONTHS).pdb
+C:\Users\earli\source\repos\ENUM IN SWTICH (MONTHS)\ENUM IN SWTICH (MONTHS)\obj\Debug\netcoreapp2.1\ENUM IN SWTICH (MONTHS).csprojAssemblyReference.cache
+C:\Users\earli\source\repos\ENUM IN SWTICH (MONTHS)\ENUM IN SWTICH (MONTHS)\obj\Debug\netcoreapp2.1\ENUM IN SWTICH (MONTHS).csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\ENUM IN SWTICH (MONTHS)\ENUM IN SWTICH (MONTHS)\obj\Debug\netcoreapp2.1\ENUM IN SWTICH (MONTHS).AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\ENUM IN SWTICH (MONTHS)\ENUM IN SWTICH (MONTHS)\obj\Debug\netcoreapp2.1\ENUM IN SWTICH (MONTHS).AssemblyInfo.cs
+C:\Users\earli\source\repos\ENUM IN SWTICH (MONTHS)\ENUM IN SWTICH (MONTHS)\obj\Debug\netcoreapp2.1\ENUM IN SWTICH (MONTHS).dll
+C:\Users\earli\source\repos\ENUM IN SWTICH (MONTHS)\ENUM IN SWTICH (MONTHS)\obj\Debug\netcoreapp2.1\ENUM IN SWTICH (MONTHS).pdb

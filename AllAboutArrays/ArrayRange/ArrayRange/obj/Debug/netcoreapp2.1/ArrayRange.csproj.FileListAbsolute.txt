@@ -1,0 +1,11 @@
+C:\Users\earli\source\repos\ArrayRange\ArrayRange\bin\Debug\netcoreapp2.1\ArrayRange.deps.json
+C:\Users\earli\source\repos\ArrayRange\ArrayRange\bin\Debug\netcoreapp2.1\ArrayRange.runtimeconfig.json
+C:\Users\earli\source\repos\ArrayRange\ArrayRange\bin\Debug\netcoreapp2.1\ArrayRange.runtimeconfig.dev.json
+C:\Users\earli\source\repos\ArrayRange\ArrayRange\bin\Debug\netcoreapp2.1\ArrayRange.dll
+C:\Users\earli\source\repos\ArrayRange\ArrayRange\bin\Debug\netcoreapp2.1\ArrayRange.pdb
+C:\Users\earli\source\repos\ArrayRange\ArrayRange\obj\Debug\netcoreapp2.1\ArrayRange.csprojAssemblyReference.cache
+C:\Users\earli\source\repos\ArrayRange\ArrayRange\obj\Debug\netcoreapp2.1\ArrayRange.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\ArrayRange\ArrayRange\obj\Debug\netcoreapp2.1\ArrayRange.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\ArrayRange\ArrayRange\obj\Debug\netcoreapp2.1\ArrayRange.AssemblyInfo.cs
+C:\Users\earli\source\repos\ArrayRange\ArrayRange\obj\Debug\netcoreapp2.1\ArrayRange.dll
+C:\Users\earli\source\repos\ArrayRange\ArrayRange\obj\Debug\netcoreapp2.1\ArrayRange.pdb

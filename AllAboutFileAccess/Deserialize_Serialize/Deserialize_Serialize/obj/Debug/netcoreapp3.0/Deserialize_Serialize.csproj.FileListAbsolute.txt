@@ -1,0 +1,10 @@
+C:\Users\earli\source\repos\Deserialize_Serialize\Deserialize_Serialize\bin\Debug\netcoreapp3.0\Deserialize_Serialize.exe
+C:\Users\earli\source\repos\Deserialize_Serialize\Deserialize_Serialize\bin\Debug\netcoreapp3.0\Deserialize_Serialize.deps.json
+C:\Users\earli\source\repos\Deserialize_Serialize\Deserialize_Serialize\bin\Debug\netcoreapp3.0\Deserialize_Serialize.runtimeconfig.json
+C:\Users\earli\source\repos\Deserialize_Serialize\Deserialize_Serialize\bin\Debug\netcoreapp3.0\Deserialize_Serialize.runtimeconfig.dev.json
+C:\Users\earli\source\repos\Deserialize_Serialize\Deserialize_Serialize\bin\Debug\netcoreapp3.0\Deserialize_Serialize.dll
+C:\Users\earli\source\repos\Deserialize_Serialize\Deserialize_Serialize\bin\Debug\netcoreapp3.0\Deserialize_Serialize.pdb
+C:\Users\earli\source\repos\Deserialize_Serialize\Deserialize_Serialize\obj\Debug\netcoreapp3.0\Deserialize_Serialize.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\Deserialize_Serialize\Deserialize_Serialize\obj\Debug\netcoreapp3.0\Deserialize_Serialize.AssemblyInfo.cs
+C:\Users\earli\source\repos\Deserialize_Serialize\Deserialize_Serialize\obj\Debug\netcoreapp3.0\Deserialize_Serialize.dll
+C:\Users\earli\source\repos\Deserialize_Serialize\Deserialize_Serialize\obj\Debug\netcoreapp3.0\Deserialize_Serialize.pdb

@@ -1,0 +1,11 @@
+C:\Users\earli\source\repos\Array(Reverse, Position, Display)\Array(Reverse, Position, Display)\bin\Debug\netcoreapp2.1\Array(Reverse, Position, Display).deps.json
+C:\Users\earli\source\repos\Array(Reverse, Position, Display)\Array(Reverse, Position, Display)\bin\Debug\netcoreapp2.1\Array(Reverse, Position, Display).runtimeconfig.json
+C:\Users\earli\source\repos\Array(Reverse, Position, Display)\Array(Reverse, Position, Display)\bin\Debug\netcoreapp2.1\Array(Reverse, Position, Display).runtimeconfig.dev.json
+C:\Users\earli\source\repos\Array(Reverse, Position, Display)\Array(Reverse, Position, Display)\bin\Debug\netcoreapp2.1\Array(Reverse, Position, Display).dll
+C:\Users\earli\source\repos\Array(Reverse, Position, Display)\Array(Reverse, Position, Display)\bin\Debug\netcoreapp2.1\Array(Reverse, Position, Display).pdb
+C:\Users\earli\source\repos\Array(Reverse, Position, Display)\Array(Reverse, Position, Display)\obj\Debug\netcoreapp2.1\Array(Reverse, Position, Display).csprojAssemblyReference.cache
+C:\Users\earli\source\repos\Array(Reverse, Position, Display)\Array(Reverse, Position, Display)\obj\Debug\netcoreapp2.1\Array(Reverse, Position, Display).csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\Array(Reverse, Position, Display)\Array(Reverse, Position, Display)\obj\Debug\netcoreapp2.1\Array(Reverse, Position, Display).AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\Array(Reverse, Position, Display)\Array(Reverse, Position, Display)\obj\Debug\netcoreapp2.1\Array(Reverse, Position, Display).AssemblyInfo.cs
+C:\Users\earli\source\repos\Array(Reverse, Position, Display)\Array(Reverse, Position, Display)\obj\Debug\netcoreapp2.1\Array(Reverse, Position, Display).dll
+C:\Users\earli\source\repos\Array(Reverse, Position, Display)\Array(Reverse, Position, Display)\obj\Debug\netcoreapp2.1\Array(Reverse, Position, Display).pdb

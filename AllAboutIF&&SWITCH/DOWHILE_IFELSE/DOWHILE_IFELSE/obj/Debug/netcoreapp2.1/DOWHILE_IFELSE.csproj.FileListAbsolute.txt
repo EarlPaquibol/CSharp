@@ -1,0 +1,10 @@
+C:\Users\earli\source\repos\DOWHILE_IFELSE\DOWHILE_IFELSE\bin\Debug\netcoreapp2.1\DOWHILE_IFELSE.deps.json
+C:\Users\earli\source\repos\DOWHILE_IFELSE\DOWHILE_IFELSE\bin\Debug\netcoreapp2.1\DOWHILE_IFELSE.runtimeconfig.json
+C:\Users\earli\source\repos\DOWHILE_IFELSE\DOWHILE_IFELSE\bin\Debug\netcoreapp2.1\DOWHILE_IFELSE.runtimeconfig.dev.json
+C:\Users\earli\source\repos\DOWHILE_IFELSE\DOWHILE_IFELSE\bin\Debug\netcoreapp2.1\DOWHILE_IFELSE.dll
+C:\Users\earli\source\repos\DOWHILE_IFELSE\DOWHILE_IFELSE\bin\Debug\netcoreapp2.1\DOWHILE_IFELSE.pdb
+C:\Users\earli\source\repos\DOWHILE_IFELSE\DOWHILE_IFELSE\obj\Debug\netcoreapp2.1\DOWHILE_IFELSE.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\DOWHILE_IFELSE\DOWHILE_IFELSE\obj\Debug\netcoreapp2.1\DOWHILE_IFELSE.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\DOWHILE_IFELSE\DOWHILE_IFELSE\obj\Debug\netcoreapp2.1\DOWHILE_IFELSE.AssemblyInfo.cs
+C:\Users\earli\source\repos\DOWHILE_IFELSE\DOWHILE_IFELSE\obj\Debug\netcoreapp2.1\DOWHILE_IFELSE.dll
+C:\Users\earli\source\repos\DOWHILE_IFELSE\DOWHILE_IFELSE\obj\Debug\netcoreapp2.1\DOWHILE_IFELSE.pdb

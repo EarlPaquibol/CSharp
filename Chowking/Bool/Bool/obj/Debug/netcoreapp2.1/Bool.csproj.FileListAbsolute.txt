@@ -1,0 +1,10 @@
+C:\Users\earli\source\repos\Bool\Bool\bin\Debug\netcoreapp2.1\Bool.deps.json
+C:\Users\earli\source\repos\Bool\Bool\bin\Debug\netcoreapp2.1\Bool.runtimeconfig.json
+C:\Users\earli\source\repos\Bool\Bool\bin\Debug\netcoreapp2.1\Bool.runtimeconfig.dev.json
+C:\Users\earli\source\repos\Bool\Bool\bin\Debug\netcoreapp2.1\Bool.dll
+C:\Users\earli\source\repos\Bool\Bool\bin\Debug\netcoreapp2.1\Bool.pdb
+C:\Users\earli\source\repos\Bool\Bool\obj\Debug\netcoreapp2.1\Bool.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\Bool\Bool\obj\Debug\netcoreapp2.1\Bool.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\Bool\Bool\obj\Debug\netcoreapp2.1\Bool.AssemblyInfo.cs
+C:\Users\earli\source\repos\Bool\Bool\obj\Debug\netcoreapp2.1\Bool.dll
+C:\Users\earli\source\repos\Bool\Bool\obj\Debug\netcoreapp2.1\Bool.pdb

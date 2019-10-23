@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareFileSizes", "CompareFileSizes\CompareFileSizes.csproj", "{1E3E1D59-6EBE-4AB8-91A8-9198C73A8032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E3E1D59-6EBE-4AB8-91A8-9198C73A8032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3E1D59-6EBE-4AB8-91A8-9198C73A8032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3E1D59-6EBE-4AB8-91A8-9198C73A8032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3E1D59-6EBE-4AB8-91A8-9198C73A8032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F285F4B-FE44-49D4-8C7F-21729B458862}
+	EndGlobalSection
+EndGlobal

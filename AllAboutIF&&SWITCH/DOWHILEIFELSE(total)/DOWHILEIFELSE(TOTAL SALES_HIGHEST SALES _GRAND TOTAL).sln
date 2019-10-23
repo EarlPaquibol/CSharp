@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOWHILEIFELSE(TOTAL SALES_HIGHEST SALES _GRAND TOTAL)", "DOWHILEIFELSE(TOTAL SALES_HIGHEST SALES _GRAND TOTAL)\DOWHILEIFELSE(TOTAL SALES_HIGHEST SALES _GRAND TOTAL).csproj", "{AE8E0720-5FDF-42BA-9102-674295DFCBCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE8E0720-5FDF-42BA-9102-674295DFCBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8E0720-5FDF-42BA-9102-674295DFCBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8E0720-5FDF-42BA-9102-674295DFCBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8E0720-5FDF-42BA-9102-674295DFCBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F39EA256-F440-4BDE-859F-78EC059CA53D}
+	EndGlobalSection
+EndGlobal

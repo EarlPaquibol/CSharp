@@ -1,0 +1,11 @@
+C:\Users\earli\source\repos\ReadFile\ReadFile\bin\Debug\netcoreapp3.0\ReadFile.exe
+C:\Users\earli\source\repos\ReadFile\ReadFile\bin\Debug\netcoreapp3.0\ReadFile.deps.json
+C:\Users\earli\source\repos\ReadFile\ReadFile\bin\Debug\netcoreapp3.0\ReadFile.runtimeconfig.json
+C:\Users\earli\source\repos\ReadFile\ReadFile\bin\Debug\netcoreapp3.0\ReadFile.runtimeconfig.dev.json
+C:\Users\earli\source\repos\ReadFile\ReadFile\bin\Debug\netcoreapp3.0\ReadFile.dll
+C:\Users\earli\source\repos\ReadFile\ReadFile\bin\Debug\netcoreapp3.0\ReadFile.pdb
+C:\Users\earli\source\repos\ReadFile\ReadFile\obj\Debug\netcoreapp3.0\ReadFile.csprojAssemblyReference.cache
+C:\Users\earli\source\repos\ReadFile\ReadFile\obj\Debug\netcoreapp3.0\ReadFile.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\ReadFile\ReadFile\obj\Debug\netcoreapp3.0\ReadFile.AssemblyInfo.cs
+C:\Users\earli\source\repos\ReadFile\ReadFile\obj\Debug\netcoreapp3.0\ReadFile.dll
+C:\Users\earli\source\repos\ReadFile\ReadFile\obj\Debug\netcoreapp3.0\ReadFile.pdb

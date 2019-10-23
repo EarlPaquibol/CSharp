@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\earli\\source\\repos\\TryCatchThrow\\TryCatchThrow\\TryCatchThrow.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\earli\\source\\repos\\TryCatchThrow\\TryCatchThrow\\TryCatchThrow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\earli\\source\\repos\\TryCatchThrow\\TryCatchThrow\\TryCatchThrow.csproj",
+        "projectName": "TryCatchThrow",
+        "projectPath": "C:\\Users\\earli\\source\\repos\\TryCatchThrow\\TryCatchThrow\\TryCatchThrow.csproj",
+        "packagesPath": "C:\\Users\\earli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\earli\\source\\repos\\TryCatchThrow\\TryCatchThrow\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\earli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

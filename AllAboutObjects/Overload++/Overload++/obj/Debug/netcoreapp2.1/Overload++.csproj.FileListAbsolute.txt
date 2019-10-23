@@ -1,0 +1,10 @@
+C:\Users\earli\source\repos\Overload++\Overload++\bin\Debug\netcoreapp2.1\Overload++.deps.json
+C:\Users\earli\source\repos\Overload++\Overload++\bin\Debug\netcoreapp2.1\Overload++.runtimeconfig.json
+C:\Users\earli\source\repos\Overload++\Overload++\bin\Debug\netcoreapp2.1\Overload++.runtimeconfig.dev.json
+C:\Users\earli\source\repos\Overload++\Overload++\bin\Debug\netcoreapp2.1\Overload++.dll
+C:\Users\earli\source\repos\Overload++\Overload++\bin\Debug\netcoreapp2.1\Overload++.pdb
+C:\Users\earli\source\repos\Overload++\Overload++\obj\Debug\netcoreapp2.1\Overload++.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\Overload++\Overload++\obj\Debug\netcoreapp2.1\Overload++.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\Overload++\Overload++\obj\Debug\netcoreapp2.1\Overload++.AssemblyInfo.cs
+C:\Users\earli\source\repos\Overload++\Overload++\obj\Debug\netcoreapp2.1\Overload++.dll
+C:\Users\earli\source\repos\Overload++\Overload++\obj\Debug\netcoreapp2.1\Overload++.pdb

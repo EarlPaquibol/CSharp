@@ -1,0 +1,14 @@
+C:\Users\earli\source\repos\Eyy\Eyy\bin\Debug\Eyy.exe.config
+C:\Users\earli\source\repos\Eyy\Eyy\bin\Debug\Eyy.exe
+C:\Users\earli\source\repos\Eyy\Eyy\bin\Debug\Eyy.pdb
+C:\Users\earli\source\repos\Eyy\Eyy\obj\Debug\Eyy.csprojAssemblyReference.cache
+C:\Users\earli\source\repos\Eyy\Eyy\obj\Debug\MainWindow.g.cs
+C:\Users\earli\source\repos\Eyy\Eyy\obj\Debug\App.g.cs
+C:\Users\earli\source\repos\Eyy\Eyy\obj\Debug\Eyy_MarkupCompile.cache
+C:\Users\earli\source\repos\Eyy\Eyy\obj\Debug\Eyy_MarkupCompile.lref
+C:\Users\earli\source\repos\Eyy\Eyy\obj\Debug\MainWindow.baml
+C:\Users\earli\source\repos\Eyy\Eyy\obj\Debug\Eyy.g.resources
+C:\Users\earli\source\repos\Eyy\Eyy\obj\Debug\Eyy.Properties.Resources.resources
+C:\Users\earli\source\repos\Eyy\Eyy\obj\Debug\Eyy.csproj.GenerateResource.cache
+C:\Users\earli\source\repos\Eyy\Eyy\obj\Debug\Eyy.exe
+C:\Users\earli\source\repos\Eyy\Eyy\obj\Debug\Eyy.pdb

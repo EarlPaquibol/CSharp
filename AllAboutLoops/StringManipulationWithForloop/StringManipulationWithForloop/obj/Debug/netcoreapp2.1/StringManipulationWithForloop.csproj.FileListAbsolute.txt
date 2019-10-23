@@ -1,0 +1,11 @@
+C:\Users\earli\source\repos\StringManipulationWithForloop\StringManipulationWithForloop\bin\Debug\netcoreapp2.1\StringManipulationWithForloop.deps.json
+C:\Users\earli\source\repos\StringManipulationWithForloop\StringManipulationWithForloop\bin\Debug\netcoreapp2.1\StringManipulationWithForloop.runtimeconfig.json
+C:\Users\earli\source\repos\StringManipulationWithForloop\StringManipulationWithForloop\bin\Debug\netcoreapp2.1\StringManipulationWithForloop.runtimeconfig.dev.json
+C:\Users\earli\source\repos\StringManipulationWithForloop\StringManipulationWithForloop\bin\Debug\netcoreapp2.1\StringManipulationWithForloop.dll
+C:\Users\earli\source\repos\StringManipulationWithForloop\StringManipulationWithForloop\bin\Debug\netcoreapp2.1\StringManipulationWithForloop.pdb
+C:\Users\earli\source\repos\StringManipulationWithForloop\StringManipulationWithForloop\obj\Debug\netcoreapp2.1\StringManipulationWithForloop.csprojAssemblyReference.cache
+C:\Users\earli\source\repos\StringManipulationWithForloop\StringManipulationWithForloop\obj\Debug\netcoreapp2.1\StringManipulationWithForloop.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\StringManipulationWithForloop\StringManipulationWithForloop\obj\Debug\netcoreapp2.1\StringManipulationWithForloop.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\StringManipulationWithForloop\StringManipulationWithForloop\obj\Debug\netcoreapp2.1\StringManipulationWithForloop.AssemblyInfo.cs
+C:\Users\earli\source\repos\StringManipulationWithForloop\StringManipulationWithForloop\obj\Debug\netcoreapp2.1\StringManipulationWithForloop.dll
+C:\Users\earli\source\repos\StringManipulationWithForloop\StringManipulationWithForloop\obj\Debug\netcoreapp2.1\StringManipulationWithForloop.pdb

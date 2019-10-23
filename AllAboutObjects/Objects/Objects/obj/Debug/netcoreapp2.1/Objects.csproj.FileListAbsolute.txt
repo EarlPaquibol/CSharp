@@ -1,0 +1,11 @@
+C:\Users\earli\source\repos\Objects\Objects\bin\Debug\netcoreapp2.1\Objects.deps.json
+C:\Users\earli\source\repos\Objects\Objects\bin\Debug\netcoreapp2.1\Objects.runtimeconfig.json
+C:\Users\earli\source\repos\Objects\Objects\bin\Debug\netcoreapp2.1\Objects.runtimeconfig.dev.json
+C:\Users\earli\source\repos\Objects\Objects\bin\Debug\netcoreapp2.1\Objects.dll
+C:\Users\earli\source\repos\Objects\Objects\bin\Debug\netcoreapp2.1\Objects.pdb
+C:\Users\earli\source\repos\Objects\Objects\obj\Debug\netcoreapp2.1\Objects.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\Objects\Objects\obj\Debug\netcoreapp2.1\Objects.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\Objects\Objects\obj\Debug\netcoreapp2.1\Objects.AssemblyInfo.cs
+C:\Users\earli\source\repos\Objects\Objects\obj\Debug\netcoreapp2.1\Objects.dll
+C:\Users\earli\source\repos\Objects\Objects\obj\Debug\netcoreapp2.1\Objects.pdb
+C:\Users\earli\source\repos\Objects\Objects\obj\Debug\netcoreapp2.1\Objects.csprojAssemblyReference.cache

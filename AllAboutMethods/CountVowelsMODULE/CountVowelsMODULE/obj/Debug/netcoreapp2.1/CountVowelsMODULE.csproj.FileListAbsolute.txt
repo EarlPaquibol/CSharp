@@ -1,0 +1,10 @@
+C:\Users\earli\source\repos\CountVowelsMODULE\CountVowelsMODULE\bin\Debug\netcoreapp2.1\CountVowelsMODULE.deps.json
+C:\Users\earli\source\repos\CountVowelsMODULE\CountVowelsMODULE\bin\Debug\netcoreapp2.1\CountVowelsMODULE.runtimeconfig.json
+C:\Users\earli\source\repos\CountVowelsMODULE\CountVowelsMODULE\bin\Debug\netcoreapp2.1\CountVowelsMODULE.runtimeconfig.dev.json
+C:\Users\earli\source\repos\CountVowelsMODULE\CountVowelsMODULE\bin\Debug\netcoreapp2.1\CountVowelsMODULE.dll
+C:\Users\earli\source\repos\CountVowelsMODULE\CountVowelsMODULE\bin\Debug\netcoreapp2.1\CountVowelsMODULE.pdb
+C:\Users\earli\source\repos\CountVowelsMODULE\CountVowelsMODULE\obj\Debug\netcoreapp2.1\CountVowelsMODULE.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\CountVowelsMODULE\CountVowelsMODULE\obj\Debug\netcoreapp2.1\CountVowelsMODULE.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\CountVowelsMODULE\CountVowelsMODULE\obj\Debug\netcoreapp2.1\CountVowelsMODULE.AssemblyInfo.cs
+C:\Users\earli\source\repos\CountVowelsMODULE\CountVowelsMODULE\obj\Debug\netcoreapp2.1\CountVowelsMODULE.dll
+C:\Users\earli\source\repos\CountVowelsMODULE\CountVowelsMODULE\obj\Debug\netcoreapp2.1\CountVowelsMODULE.pdb

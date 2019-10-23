@@ -1,0 +1,11 @@
+C:\Users\earli\source\repos\ReadAnotherFIle\ReadAnotherFIle\bin\Debug\netcoreapp3.0\ReadAnotherFIle.exe
+C:\Users\earli\source\repos\ReadAnotherFIle\ReadAnotherFIle\bin\Debug\netcoreapp3.0\ReadAnotherFIle.deps.json
+C:\Users\earli\source\repos\ReadAnotherFIle\ReadAnotherFIle\bin\Debug\netcoreapp3.0\ReadAnotherFIle.runtimeconfig.json
+C:\Users\earli\source\repos\ReadAnotherFIle\ReadAnotherFIle\bin\Debug\netcoreapp3.0\ReadAnotherFIle.runtimeconfig.dev.json
+C:\Users\earli\source\repos\ReadAnotherFIle\ReadAnotherFIle\bin\Debug\netcoreapp3.0\ReadAnotherFIle.dll
+C:\Users\earli\source\repos\ReadAnotherFIle\ReadAnotherFIle\bin\Debug\netcoreapp3.0\ReadAnotherFIle.pdb
+C:\Users\earli\source\repos\ReadAnotherFIle\ReadAnotherFIle\obj\Debug\netcoreapp3.0\ReadAnotherFIle.csprojAssemblyReference.cache
+C:\Users\earli\source\repos\ReadAnotherFIle\ReadAnotherFIle\obj\Debug\netcoreapp3.0\ReadAnotherFIle.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\ReadAnotherFIle\ReadAnotherFIle\obj\Debug\netcoreapp3.0\ReadAnotherFIle.AssemblyInfo.cs
+C:\Users\earli\source\repos\ReadAnotherFIle\ReadAnotherFIle\obj\Debug\netcoreapp3.0\ReadAnotherFIle.dll
+C:\Users\earli\source\repos\ReadAnotherFIle\ReadAnotherFIle\obj\Debug\netcoreapp3.0\ReadAnotherFIle.pdb

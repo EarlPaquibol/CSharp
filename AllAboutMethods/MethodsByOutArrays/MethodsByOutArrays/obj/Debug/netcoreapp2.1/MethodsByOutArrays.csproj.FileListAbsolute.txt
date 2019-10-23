@@ -1,0 +1,10 @@
+C:\Users\earli\source\repos\MethodsByOutArrays\MethodsByOutArrays\bin\Debug\netcoreapp2.1\MethodsByOutArrays.deps.json
+C:\Users\earli\source\repos\MethodsByOutArrays\MethodsByOutArrays\bin\Debug\netcoreapp2.1\MethodsByOutArrays.runtimeconfig.json
+C:\Users\earli\source\repos\MethodsByOutArrays\MethodsByOutArrays\bin\Debug\netcoreapp2.1\MethodsByOutArrays.runtimeconfig.dev.json
+C:\Users\earli\source\repos\MethodsByOutArrays\MethodsByOutArrays\bin\Debug\netcoreapp2.1\MethodsByOutArrays.dll
+C:\Users\earli\source\repos\MethodsByOutArrays\MethodsByOutArrays\bin\Debug\netcoreapp2.1\MethodsByOutArrays.pdb
+C:\Users\earli\source\repos\MethodsByOutArrays\MethodsByOutArrays\obj\Debug\netcoreapp2.1\MethodsByOutArrays.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\MethodsByOutArrays\MethodsByOutArrays\obj\Debug\netcoreapp2.1\MethodsByOutArrays.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\MethodsByOutArrays\MethodsByOutArrays\obj\Debug\netcoreapp2.1\MethodsByOutArrays.AssemblyInfo.cs
+C:\Users\earli\source\repos\MethodsByOutArrays\MethodsByOutArrays\obj\Debug\netcoreapp2.1\MethodsByOutArrays.dll
+C:\Users\earli\source\repos\MethodsByOutArrays\MethodsByOutArrays\obj\Debug\netcoreapp2.1\MethodsByOutArrays.pdb

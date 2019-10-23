@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\earli\\source\\repos\\2 string parameters_input 2 array\\2 string parameters_input 2 array\\2 string parameters_input 2 array.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\earli\\source\\repos\\2 string parameters_input 2 array\\2 string parameters_input 2 array\\2 string parameters_input 2 array.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\earli\\source\\repos\\2 string parameters_input 2 array\\2 string parameters_input 2 array\\2 string parameters_input 2 array.csproj",
+        "projectName": "2 string parameters_input 2 array",
+        "projectPath": "C:\\Users\\earli\\source\\repos\\2 string parameters_input 2 array\\2 string parameters_input 2 array\\2 string parameters_input 2 array.csproj",
+        "packagesPath": "C:\\Users\\earli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\earli\\source\\repos\\2 string parameters_input 2 array\\2 string parameters_input 2 array\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\earli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

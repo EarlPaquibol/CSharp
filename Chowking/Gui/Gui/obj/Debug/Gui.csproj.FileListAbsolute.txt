@@ -1,0 +1,14 @@
+C:\Users\earli\source\repos\Chowking\Gui\Gui\bin\Debug\Gui.exe.config
+C:\Users\earli\source\repos\Chowking\Gui\Gui\bin\Debug\Gui.exe
+C:\Users\earli\source\repos\Chowking\Gui\Gui\bin\Debug\Gui.pdb
+C:\Users\earli\source\repos\Chowking\Gui\Gui\obj\Debug\Gui.csprojAssemblyReference.cache
+C:\Users\earli\source\repos\Chowking\Gui\Gui\obj\Debug\MainWindow.g.cs
+C:\Users\earli\source\repos\Chowking\Gui\Gui\obj\Debug\App.g.cs
+C:\Users\earli\source\repos\Chowking\Gui\Gui\obj\Debug\Gui_MarkupCompile.cache
+C:\Users\earli\source\repos\Chowking\Gui\Gui\obj\Debug\Gui_MarkupCompile.lref
+C:\Users\earli\source\repos\Chowking\Gui\Gui\obj\Debug\MainWindow.baml
+C:\Users\earli\source\repos\Chowking\Gui\Gui\obj\Debug\Gui.g.resources
+C:\Users\earli\source\repos\Chowking\Gui\Gui\obj\Debug\Gui.Properties.Resources.resources
+C:\Users\earli\source\repos\Chowking\Gui\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+C:\Users\earli\source\repos\Chowking\Gui\Gui\obj\Debug\Gui.exe
+C:\Users\earli\source\repos\Chowking\Gui\Gui\obj\Debug\Gui.pdb

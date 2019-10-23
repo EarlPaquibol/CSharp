@@ -1,0 +1,10 @@
+C:\Users\earli\source\repos\Calculator table matrix (FOR LOOP)\Calculator table matrix (FOR LOOP)\bin\Debug\netcoreapp2.1\Calculator table matrix (FOR LOOP).deps.json
+C:\Users\earli\source\repos\Calculator table matrix (FOR LOOP)\Calculator table matrix (FOR LOOP)\bin\Debug\netcoreapp2.1\Calculator table matrix (FOR LOOP).runtimeconfig.json
+C:\Users\earli\source\repos\Calculator table matrix (FOR LOOP)\Calculator table matrix (FOR LOOP)\bin\Debug\netcoreapp2.1\Calculator table matrix (FOR LOOP).runtimeconfig.dev.json
+C:\Users\earli\source\repos\Calculator table matrix (FOR LOOP)\Calculator table matrix (FOR LOOP)\bin\Debug\netcoreapp2.1\Calculator table matrix (FOR LOOP).dll
+C:\Users\earli\source\repos\Calculator table matrix (FOR LOOP)\Calculator table matrix (FOR LOOP)\bin\Debug\netcoreapp2.1\Calculator table matrix (FOR LOOP).pdb
+C:\Users\earli\source\repos\Calculator table matrix (FOR LOOP)\Calculator table matrix (FOR LOOP)\obj\Debug\netcoreapp2.1\Calculator table matrix (FOR LOOP).csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\Calculator table matrix (FOR LOOP)\Calculator table matrix (FOR LOOP)\obj\Debug\netcoreapp2.1\Calculator table matrix (FOR LOOP).AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\Calculator table matrix (FOR LOOP)\Calculator table matrix (FOR LOOP)\obj\Debug\netcoreapp2.1\Calculator table matrix (FOR LOOP).AssemblyInfo.cs
+C:\Users\earli\source\repos\Calculator table matrix (FOR LOOP)\Calculator table matrix (FOR LOOP)\obj\Debug\netcoreapp2.1\Calculator table matrix (FOR LOOP).dll
+C:\Users\earli\source\repos\Calculator table matrix (FOR LOOP)\Calculator table matrix (FOR LOOP)\obj\Debug\netcoreapp2.1\Calculator table matrix (FOR LOOP).pdb

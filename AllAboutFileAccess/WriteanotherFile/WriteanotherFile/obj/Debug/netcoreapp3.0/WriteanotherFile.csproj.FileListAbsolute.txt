@@ -1,0 +1,11 @@
+C:\Users\earli\source\repos\WriteanotherFile\WriteanotherFile\bin\Debug\netcoreapp3.0\WriteanotherFile.exe
+C:\Users\earli\source\repos\WriteanotherFile\WriteanotherFile\bin\Debug\netcoreapp3.0\WriteanotherFile.deps.json
+C:\Users\earli\source\repos\WriteanotherFile\WriteanotherFile\bin\Debug\netcoreapp3.0\WriteanotherFile.runtimeconfig.json
+C:\Users\earli\source\repos\WriteanotherFile\WriteanotherFile\bin\Debug\netcoreapp3.0\WriteanotherFile.runtimeconfig.dev.json
+C:\Users\earli\source\repos\WriteanotherFile\WriteanotherFile\bin\Debug\netcoreapp3.0\WriteanotherFile.dll
+C:\Users\earli\source\repos\WriteanotherFile\WriteanotherFile\bin\Debug\netcoreapp3.0\WriteanotherFile.pdb
+C:\Users\earli\source\repos\WriteanotherFile\WriteanotherFile\obj\Debug\netcoreapp3.0\WriteanotherFile.csprojAssemblyReference.cache
+C:\Users\earli\source\repos\WriteanotherFile\WriteanotherFile\obj\Debug\netcoreapp3.0\WriteanotherFile.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\WriteanotherFile\WriteanotherFile\obj\Debug\netcoreapp3.0\WriteanotherFile.AssemblyInfo.cs
+C:\Users\earli\source\repos\WriteanotherFile\WriteanotherFile\obj\Debug\netcoreapp3.0\WriteanotherFile.dll
+C:\Users\earli\source\repos\WriteanotherFile\WriteanotherFile\obj\Debug\netcoreapp3.0\WriteanotherFile.pdb

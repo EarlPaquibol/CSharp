@@ -1,0 +1,11 @@
+C:\Users\earli\source\repos\RandomGen\RandomGen\bin\Debug\netcoreapp2.1\RandomGen.deps.json
+C:\Users\earli\source\repos\RandomGen\RandomGen\bin\Debug\netcoreapp2.1\RandomGen.runtimeconfig.json
+C:\Users\earli\source\repos\RandomGen\RandomGen\bin\Debug\netcoreapp2.1\RandomGen.runtimeconfig.dev.json
+C:\Users\earli\source\repos\RandomGen\RandomGen\bin\Debug\netcoreapp2.1\RandomGen.dll
+C:\Users\earli\source\repos\RandomGen\RandomGen\bin\Debug\netcoreapp2.1\RandomGen.pdb
+C:\Users\earli\source\repos\RandomGen\RandomGen\obj\Debug\netcoreapp2.1\RandomGen.csprojAssemblyReference.cache
+C:\Users\earli\source\repos\RandomGen\RandomGen\obj\Debug\netcoreapp2.1\RandomGen.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\RandomGen\RandomGen\obj\Debug\netcoreapp2.1\RandomGen.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\RandomGen\RandomGen\obj\Debug\netcoreapp2.1\RandomGen.AssemblyInfo.cs
+C:\Users\earli\source\repos\RandomGen\RandomGen\obj\Debug\netcoreapp2.1\RandomGen.dll
+C:\Users\earli\source\repos\RandomGen\RandomGen\obj\Debug\netcoreapp2.1\RandomGen.pdb

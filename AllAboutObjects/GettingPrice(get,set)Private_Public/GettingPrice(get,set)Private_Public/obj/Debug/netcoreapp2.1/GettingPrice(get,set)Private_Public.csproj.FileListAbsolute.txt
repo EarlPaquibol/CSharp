@@ -1,0 +1,11 @@
+C:\Users\earli\source\repos\GettingPrice(get,set)Private_Public\GettingPrice(get,set)Private_Public\bin\Debug\netcoreapp2.1\GettingPrice(get,set)Private_Public.deps.json
+C:\Users\earli\source\repos\GettingPrice(get,set)Private_Public\GettingPrice(get,set)Private_Public\bin\Debug\netcoreapp2.1\GettingPrice(get,set)Private_Public.runtimeconfig.json
+C:\Users\earli\source\repos\GettingPrice(get,set)Private_Public\GettingPrice(get,set)Private_Public\bin\Debug\netcoreapp2.1\GettingPrice(get,set)Private_Public.runtimeconfig.dev.json
+C:\Users\earli\source\repos\GettingPrice(get,set)Private_Public\GettingPrice(get,set)Private_Public\bin\Debug\netcoreapp2.1\GettingPrice(get,set)Private_Public.dll
+C:\Users\earli\source\repos\GettingPrice(get,set)Private_Public\GettingPrice(get,set)Private_Public\bin\Debug\netcoreapp2.1\GettingPrice(get,set)Private_Public.pdb
+C:\Users\earli\source\repos\GettingPrice(get,set)Private_Public\GettingPrice(get,set)Private_Public\obj\Debug\netcoreapp2.1\GettingPrice(get,set)Private_Public.csprojAssemblyReference.cache
+C:\Users\earli\source\repos\GettingPrice(get,set)Private_Public\GettingPrice(get,set)Private_Public\obj\Debug\netcoreapp2.1\GettingPrice(get,set)Private_Public.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\GettingPrice(get,set)Private_Public\GettingPrice(get,set)Private_Public\obj\Debug\netcoreapp2.1\GettingPrice(get,set)Private_Public.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\GettingPrice(get,set)Private_Public\GettingPrice(get,set)Private_Public\obj\Debug\netcoreapp2.1\GettingPrice(get,set)Private_Public.AssemblyInfo.cs
+C:\Users\earli\source\repos\GettingPrice(get,set)Private_Public\GettingPrice(get,set)Private_Public\obj\Debug\netcoreapp2.1\GettingPrice(get,set)Private_Public.dll
+C:\Users\earli\source\repos\GettingPrice(get,set)Private_Public\GettingPrice(get,set)Private_Public\obj\Debug\netcoreapp2.1\GettingPrice(get,set)Private_Public.pdb

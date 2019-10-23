@@ -1,0 +1,10 @@
+C:\Users\earli\source\repos\GreenVilleTalents_Names_Array\GreenVilleTalents_Names_Array\bin\Debug\netcoreapp2.1\GreenVilleTalents_Names_Array.deps.json
+C:\Users\earli\source\repos\GreenVilleTalents_Names_Array\GreenVilleTalents_Names_Array\bin\Debug\netcoreapp2.1\GreenVilleTalents_Names_Array.runtimeconfig.json
+C:\Users\earli\source\repos\GreenVilleTalents_Names_Array\GreenVilleTalents_Names_Array\bin\Debug\netcoreapp2.1\GreenVilleTalents_Names_Array.runtimeconfig.dev.json
+C:\Users\earli\source\repos\GreenVilleTalents_Names_Array\GreenVilleTalents_Names_Array\bin\Debug\netcoreapp2.1\GreenVilleTalents_Names_Array.dll
+C:\Users\earli\source\repos\GreenVilleTalents_Names_Array\GreenVilleTalents_Names_Array\bin\Debug\netcoreapp2.1\GreenVilleTalents_Names_Array.pdb
+C:\Users\earli\source\repos\GreenVilleTalents_Names_Array\GreenVilleTalents_Names_Array\obj\Debug\netcoreapp2.1\GreenVilleTalents_Names_Array.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\GreenVilleTalents_Names_Array\GreenVilleTalents_Names_Array\obj\Debug\netcoreapp2.1\GreenVilleTalents_Names_Array.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\GreenVilleTalents_Names_Array\GreenVilleTalents_Names_Array\obj\Debug\netcoreapp2.1\GreenVilleTalents_Names_Array.AssemblyInfo.cs
+C:\Users\earli\source\repos\GreenVilleTalents_Names_Array\GreenVilleTalents_Names_Array\obj\Debug\netcoreapp2.1\GreenVilleTalents_Names_Array.dll
+C:\Users\earli\source\repos\GreenVilleTalents_Names_Array\GreenVilleTalents_Names_Array\obj\Debug\netcoreapp2.1\GreenVilleTalents_Names_Array.pdb

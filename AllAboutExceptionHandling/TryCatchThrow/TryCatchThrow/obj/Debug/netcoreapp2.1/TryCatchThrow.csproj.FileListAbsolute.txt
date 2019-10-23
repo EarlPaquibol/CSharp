@@ -1,0 +1,10 @@
+C:\Users\earli\source\repos\TryCatchThrow\TryCatchThrow\bin\Debug\netcoreapp2.1\TryCatchThrow.deps.json
+C:\Users\earli\source\repos\TryCatchThrow\TryCatchThrow\bin\Debug\netcoreapp2.1\TryCatchThrow.runtimeconfig.json
+C:\Users\earli\source\repos\TryCatchThrow\TryCatchThrow\bin\Debug\netcoreapp2.1\TryCatchThrow.runtimeconfig.dev.json
+C:\Users\earli\source\repos\TryCatchThrow\TryCatchThrow\bin\Debug\netcoreapp2.1\TryCatchThrow.dll
+C:\Users\earli\source\repos\TryCatchThrow\TryCatchThrow\bin\Debug\netcoreapp2.1\TryCatchThrow.pdb
+C:\Users\earli\source\repos\TryCatchThrow\TryCatchThrow\obj\Debug\netcoreapp2.1\TryCatchThrow.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\TryCatchThrow\TryCatchThrow\obj\Debug\netcoreapp2.1\TryCatchThrow.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\TryCatchThrow\TryCatchThrow\obj\Debug\netcoreapp2.1\TryCatchThrow.AssemblyInfo.cs
+C:\Users\earli\source\repos\TryCatchThrow\TryCatchThrow\obj\Debug\netcoreapp2.1\TryCatchThrow.dll
+C:\Users\earli\source\repos\TryCatchThrow\TryCatchThrow\obj\Debug\netcoreapp2.1\TryCatchThrow.pdb

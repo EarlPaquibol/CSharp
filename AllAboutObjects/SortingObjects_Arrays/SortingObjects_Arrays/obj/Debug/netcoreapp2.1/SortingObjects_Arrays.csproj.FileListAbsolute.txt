@@ -1,0 +1,10 @@
+C:\Users\earli\source\repos\SortingObjects_Arrays\SortingObjects_Arrays\bin\Debug\netcoreapp2.1\SortingObjects_Arrays.deps.json
+C:\Users\earli\source\repos\SortingObjects_Arrays\SortingObjects_Arrays\bin\Debug\netcoreapp2.1\SortingObjects_Arrays.runtimeconfig.json
+C:\Users\earli\source\repos\SortingObjects_Arrays\SortingObjects_Arrays\bin\Debug\netcoreapp2.1\SortingObjects_Arrays.runtimeconfig.dev.json
+C:\Users\earli\source\repos\SortingObjects_Arrays\SortingObjects_Arrays\bin\Debug\netcoreapp2.1\SortingObjects_Arrays.dll
+C:\Users\earli\source\repos\SortingObjects_Arrays\SortingObjects_Arrays\bin\Debug\netcoreapp2.1\SortingObjects_Arrays.pdb
+C:\Users\earli\source\repos\SortingObjects_Arrays\SortingObjects_Arrays\obj\Debug\netcoreapp2.1\SortingObjects_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\SortingObjects_Arrays\SortingObjects_Arrays\obj\Debug\netcoreapp2.1\SortingObjects_Arrays.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\SortingObjects_Arrays\SortingObjects_Arrays\obj\Debug\netcoreapp2.1\SortingObjects_Arrays.AssemblyInfo.cs
+C:\Users\earli\source\repos\SortingObjects_Arrays\SortingObjects_Arrays\obj\Debug\netcoreapp2.1\SortingObjects_Arrays.dll
+C:\Users\earli\source\repos\SortingObjects_Arrays\SortingObjects_Arrays\obj\Debug\netcoreapp2.1\SortingObjects_Arrays.pdb

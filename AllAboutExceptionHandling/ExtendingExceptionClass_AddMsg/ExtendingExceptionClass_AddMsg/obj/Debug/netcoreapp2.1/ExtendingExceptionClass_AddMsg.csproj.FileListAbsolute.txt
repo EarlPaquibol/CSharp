@@ -1,0 +1,11 @@
+C:\Users\earli\source\repos\ExtendingExceptionClass_AddMsg\ExtendingExceptionClass_AddMsg\bin\Debug\netcoreapp2.1\ExtendingExceptionClass_AddMsg.deps.json
+C:\Users\earli\source\repos\ExtendingExceptionClass_AddMsg\ExtendingExceptionClass_AddMsg\bin\Debug\netcoreapp2.1\ExtendingExceptionClass_AddMsg.runtimeconfig.json
+C:\Users\earli\source\repos\ExtendingExceptionClass_AddMsg\ExtendingExceptionClass_AddMsg\bin\Debug\netcoreapp2.1\ExtendingExceptionClass_AddMsg.runtimeconfig.dev.json
+C:\Users\earli\source\repos\ExtendingExceptionClass_AddMsg\ExtendingExceptionClass_AddMsg\bin\Debug\netcoreapp2.1\ExtendingExceptionClass_AddMsg.dll
+C:\Users\earli\source\repos\ExtendingExceptionClass_AddMsg\ExtendingExceptionClass_AddMsg\bin\Debug\netcoreapp2.1\ExtendingExceptionClass_AddMsg.pdb
+C:\Users\earli\source\repos\ExtendingExceptionClass_AddMsg\ExtendingExceptionClass_AddMsg\obj\Debug\netcoreapp2.1\ExtendingExceptionClass_AddMsg.csprojAssemblyReference.cache
+C:\Users\earli\source\repos\ExtendingExceptionClass_AddMsg\ExtendingExceptionClass_AddMsg\obj\Debug\netcoreapp2.1\ExtendingExceptionClass_AddMsg.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\ExtendingExceptionClass_AddMsg\ExtendingExceptionClass_AddMsg\obj\Debug\netcoreapp2.1\ExtendingExceptionClass_AddMsg.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\ExtendingExceptionClass_AddMsg\ExtendingExceptionClass_AddMsg\obj\Debug\netcoreapp2.1\ExtendingExceptionClass_AddMsg.AssemblyInfo.cs
+C:\Users\earli\source\repos\ExtendingExceptionClass_AddMsg\ExtendingExceptionClass_AddMsg\obj\Debug\netcoreapp2.1\ExtendingExceptionClass_AddMsg.dll
+C:\Users\earli\source\repos\ExtendingExceptionClass_AddMsg\ExtendingExceptionClass_AddMsg\obj\Debug\netcoreapp2.1\ExtendingExceptionClass_AddMsg.pdb

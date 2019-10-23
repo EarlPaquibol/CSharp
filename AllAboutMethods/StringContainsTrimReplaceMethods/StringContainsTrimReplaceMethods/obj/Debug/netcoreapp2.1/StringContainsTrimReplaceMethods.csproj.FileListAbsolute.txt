@@ -1,0 +1,10 @@
+C:\Users\earli\source\repos\StringContainsTrimReplaceMethods\StringContainsTrimReplaceMethods\bin\Debug\netcoreapp2.1\StringContainsTrimReplaceMethods.deps.json
+C:\Users\earli\source\repos\StringContainsTrimReplaceMethods\StringContainsTrimReplaceMethods\bin\Debug\netcoreapp2.1\StringContainsTrimReplaceMethods.runtimeconfig.json
+C:\Users\earli\source\repos\StringContainsTrimReplaceMethods\StringContainsTrimReplaceMethods\bin\Debug\netcoreapp2.1\StringContainsTrimReplaceMethods.runtimeconfig.dev.json
+C:\Users\earli\source\repos\StringContainsTrimReplaceMethods\StringContainsTrimReplaceMethods\bin\Debug\netcoreapp2.1\StringContainsTrimReplaceMethods.dll
+C:\Users\earli\source\repos\StringContainsTrimReplaceMethods\StringContainsTrimReplaceMethods\bin\Debug\netcoreapp2.1\StringContainsTrimReplaceMethods.pdb
+C:\Users\earli\source\repos\StringContainsTrimReplaceMethods\StringContainsTrimReplaceMethods\obj\Debug\netcoreapp2.1\StringContainsTrimReplaceMethods.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\StringContainsTrimReplaceMethods\StringContainsTrimReplaceMethods\obj\Debug\netcoreapp2.1\StringContainsTrimReplaceMethods.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\StringContainsTrimReplaceMethods\StringContainsTrimReplaceMethods\obj\Debug\netcoreapp2.1\StringContainsTrimReplaceMethods.AssemblyInfo.cs
+C:\Users\earli\source\repos\StringContainsTrimReplaceMethods\StringContainsTrimReplaceMethods\obj\Debug\netcoreapp2.1\StringContainsTrimReplaceMethods.dll
+C:\Users\earli\source\repos\StringContainsTrimReplaceMethods\StringContainsTrimReplaceMethods\obj\Debug\netcoreapp2.1\StringContainsTrimReplaceMethods.pdb

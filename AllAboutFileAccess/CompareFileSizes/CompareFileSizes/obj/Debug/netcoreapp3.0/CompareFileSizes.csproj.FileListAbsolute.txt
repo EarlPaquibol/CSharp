@@ -1,0 +1,11 @@
+C:\Users\earli\source\repos\CompareFileSizes\CompareFileSizes\bin\Debug\netcoreapp3.0\CompareFileSizes.exe
+C:\Users\earli\source\repos\CompareFileSizes\CompareFileSizes\bin\Debug\netcoreapp3.0\CompareFileSizes.deps.json
+C:\Users\earli\source\repos\CompareFileSizes\CompareFileSizes\bin\Debug\netcoreapp3.0\CompareFileSizes.runtimeconfig.json
+C:\Users\earli\source\repos\CompareFileSizes\CompareFileSizes\bin\Debug\netcoreapp3.0\CompareFileSizes.runtimeconfig.dev.json
+C:\Users\earli\source\repos\CompareFileSizes\CompareFileSizes\bin\Debug\netcoreapp3.0\CompareFileSizes.dll
+C:\Users\earli\source\repos\CompareFileSizes\CompareFileSizes\bin\Debug\netcoreapp3.0\CompareFileSizes.pdb
+C:\Users\earli\source\repos\CompareFileSizes\CompareFileSizes\obj\Debug\netcoreapp3.0\CompareFileSizes.csprojAssemblyReference.cache
+C:\Users\earli\source\repos\CompareFileSizes\CompareFileSizes\obj\Debug\netcoreapp3.0\CompareFileSizes.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\CompareFileSizes\CompareFileSizes\obj\Debug\netcoreapp3.0\CompareFileSizes.AssemblyInfo.cs
+C:\Users\earli\source\repos\CompareFileSizes\CompareFileSizes\obj\Debug\netcoreapp3.0\CompareFileSizes.dll
+C:\Users\earli\source\repos\CompareFileSizes\CompareFileSizes\obj\Debug\netcoreapp3.0\CompareFileSizes.pdb

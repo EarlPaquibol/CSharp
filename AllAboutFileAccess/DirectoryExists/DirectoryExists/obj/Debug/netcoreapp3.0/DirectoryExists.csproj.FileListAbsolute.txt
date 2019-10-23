@@ -1,0 +1,11 @@
+C:\Users\earli\source\repos\DirectoryExists\DirectoryExists\bin\Debug\netcoreapp3.0\DirectoryExists.exe
+C:\Users\earli\source\repos\DirectoryExists\DirectoryExists\bin\Debug\netcoreapp3.0\DirectoryExists.deps.json
+C:\Users\earli\source\repos\DirectoryExists\DirectoryExists\bin\Debug\netcoreapp3.0\DirectoryExists.runtimeconfig.json
+C:\Users\earli\source\repos\DirectoryExists\DirectoryExists\bin\Debug\netcoreapp3.0\DirectoryExists.runtimeconfig.dev.json
+C:\Users\earli\source\repos\DirectoryExists\DirectoryExists\bin\Debug\netcoreapp3.0\DirectoryExists.dll
+C:\Users\earli\source\repos\DirectoryExists\DirectoryExists\bin\Debug\netcoreapp3.0\DirectoryExists.pdb
+C:\Users\earli\source\repos\DirectoryExists\DirectoryExists\obj\Debug\netcoreapp3.0\DirectoryExists.csprojAssemblyReference.cache
+C:\Users\earli\source\repos\DirectoryExists\DirectoryExists\obj\Debug\netcoreapp3.0\DirectoryExists.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\DirectoryExists\DirectoryExists\obj\Debug\netcoreapp3.0\DirectoryExists.AssemblyInfo.cs
+C:\Users\earli\source\repos\DirectoryExists\DirectoryExists\obj\Debug\netcoreapp3.0\DirectoryExists.dll
+C:\Users\earli\source\repos\DirectoryExists\DirectoryExists\obj\Debug\netcoreapp3.0\DirectoryExists.pdb

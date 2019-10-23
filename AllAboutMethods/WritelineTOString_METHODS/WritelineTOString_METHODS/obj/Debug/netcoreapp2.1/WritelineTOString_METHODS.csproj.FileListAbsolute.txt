@@ -1,0 +1,10 @@
+C:\Users\earli\source\repos\WritelineTOString_METHODS\WritelineTOString_METHODS\bin\Debug\netcoreapp2.1\WritelineTOString_METHODS.deps.json
+C:\Users\earli\source\repos\WritelineTOString_METHODS\WritelineTOString_METHODS\bin\Debug\netcoreapp2.1\WritelineTOString_METHODS.runtimeconfig.json
+C:\Users\earli\source\repos\WritelineTOString_METHODS\WritelineTOString_METHODS\bin\Debug\netcoreapp2.1\WritelineTOString_METHODS.runtimeconfig.dev.json
+C:\Users\earli\source\repos\WritelineTOString_METHODS\WritelineTOString_METHODS\bin\Debug\netcoreapp2.1\WritelineTOString_METHODS.dll
+C:\Users\earli\source\repos\WritelineTOString_METHODS\WritelineTOString_METHODS\bin\Debug\netcoreapp2.1\WritelineTOString_METHODS.pdb
+C:\Users\earli\source\repos\WritelineTOString_METHODS\WritelineTOString_METHODS\obj\Debug\netcoreapp2.1\WritelineTOString_METHODS.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\WritelineTOString_METHODS\WritelineTOString_METHODS\obj\Debug\netcoreapp2.1\WritelineTOString_METHODS.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\WritelineTOString_METHODS\WritelineTOString_METHODS\obj\Debug\netcoreapp2.1\WritelineTOString_METHODS.AssemblyInfo.cs
+C:\Users\earli\source\repos\WritelineTOString_METHODS\WritelineTOString_METHODS\obj\Debug\netcoreapp2.1\WritelineTOString_METHODS.dll
+C:\Users\earli\source\repos\WritelineTOString_METHODS\WritelineTOString_METHODS\obj\Debug\netcoreapp2.1\WritelineTOString_METHODS.pdb

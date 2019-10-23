@@ -1,0 +1,10 @@
+C:\Users\earli\source\repos\AscendingOrD_OrMixed_Array\AscendingOrD_OrMixed_Array\bin\Debug\netcoreapp2.1\AscendingOrD_OrMixed_Array.deps.json
+C:\Users\earli\source\repos\AscendingOrD_OrMixed_Array\AscendingOrD_OrMixed_Array\bin\Debug\netcoreapp2.1\AscendingOrD_OrMixed_Array.runtimeconfig.json
+C:\Users\earli\source\repos\AscendingOrD_OrMixed_Array\AscendingOrD_OrMixed_Array\bin\Debug\netcoreapp2.1\AscendingOrD_OrMixed_Array.runtimeconfig.dev.json
+C:\Users\earli\source\repos\AscendingOrD_OrMixed_Array\AscendingOrD_OrMixed_Array\bin\Debug\netcoreapp2.1\AscendingOrD_OrMixed_Array.dll
+C:\Users\earli\source\repos\AscendingOrD_OrMixed_Array\AscendingOrD_OrMixed_Array\bin\Debug\netcoreapp2.1\AscendingOrD_OrMixed_Array.pdb
+C:\Users\earli\source\repos\AscendingOrD_OrMixed_Array\AscendingOrD_OrMixed_Array\obj\Debug\netcoreapp2.1\AscendingOrD_OrMixed_Array.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\AscendingOrD_OrMixed_Array\AscendingOrD_OrMixed_Array\obj\Debug\netcoreapp2.1\AscendingOrD_OrMixed_Array.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\AscendingOrD_OrMixed_Array\AscendingOrD_OrMixed_Array\obj\Debug\netcoreapp2.1\AscendingOrD_OrMixed_Array.AssemblyInfo.cs
+C:\Users\earli\source\repos\AscendingOrD_OrMixed_Array\AscendingOrD_OrMixed_Array\obj\Debug\netcoreapp2.1\AscendingOrD_OrMixed_Array.dll
+C:\Users\earli\source\repos\AscendingOrD_OrMixed_Array\AscendingOrD_OrMixed_Array\obj\Debug\netcoreapp2.1\AscendingOrD_OrMixed_Array.pdb

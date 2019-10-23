@@ -1,0 +1,11 @@
+C:\Users\earli\source\repos\ParamsUsingObjects\ParamsUsingObjects\bin\Debug\netcoreapp2.1\ParamsUsingObjects.deps.json
+C:\Users\earli\source\repos\ParamsUsingObjects\ParamsUsingObjects\bin\Debug\netcoreapp2.1\ParamsUsingObjects.runtimeconfig.json
+C:\Users\earli\source\repos\ParamsUsingObjects\ParamsUsingObjects\bin\Debug\netcoreapp2.1\ParamsUsingObjects.runtimeconfig.dev.json
+C:\Users\earli\source\repos\ParamsUsingObjects\ParamsUsingObjects\bin\Debug\netcoreapp2.1\ParamsUsingObjects.dll
+C:\Users\earli\source\repos\ParamsUsingObjects\ParamsUsingObjects\bin\Debug\netcoreapp2.1\ParamsUsingObjects.pdb
+C:\Users\earli\source\repos\ParamsUsingObjects\ParamsUsingObjects\obj\Debug\netcoreapp2.1\ParamsUsingObjects.csprojAssemblyReference.cache
+C:\Users\earli\source\repos\ParamsUsingObjects\ParamsUsingObjects\obj\Debug\netcoreapp2.1\ParamsUsingObjects.csproj.CoreCompileInputs.cache
+C:\Users\earli\source\repos\ParamsUsingObjects\ParamsUsingObjects\obj\Debug\netcoreapp2.1\ParamsUsingObjects.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\ParamsUsingObjects\ParamsUsingObjects\obj\Debug\netcoreapp2.1\ParamsUsingObjects.AssemblyInfo.cs
+C:\Users\earli\source\repos\ParamsUsingObjects\ParamsUsingObjects\obj\Debug\netcoreapp2.1\ParamsUsingObjects.dll
+C:\Users\earli\source\repos\ParamsUsingObjects\ParamsUsingObjects\obj\Debug\netcoreapp2.1\ParamsUsingObjects.pdb
