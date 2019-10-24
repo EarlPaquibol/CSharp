@@ -97,3 +97,30 @@ C:\Users\earli\Documents\dotNet\dotNet\obj\Debug\dotNet.Properties.Resources.res
 C:\Users\earli\Documents\dotNet\dotNet\obj\Debug\dotNet.csproj.GenerateResource.cache
 C:\Users\earli\Documents\dotNet\dotNet\obj\Debug\dotNet.exe
 C:\Users\earli\Documents\dotNet\dotNet\obj\Debug\dotNet.pdb
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\bin\Debug\dotNet.exe.config
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\bin\Debug\dotNet.exe
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\bin\Debug\dotNet.pdb
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\dotNet.csprojAssemblyReference.cache
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\Car.g.cs
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\House.g.cs
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\MainWindow.g.cs
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\viewPlayers.g.cs
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\Window1.g.cs
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\Window2.g.cs
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\Goat.g.cs
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\App.g.cs
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\dotNet_MarkupCompile.cache
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\dotNet_MarkupCompile.lref
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\Car.baml
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\House.baml
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\MainWindow.baml
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\viewPlayers.baml
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\Window1.baml
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\Window2.baml
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\Goat.baml
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\dotNet.g.resources
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\dotNet.Properties.Resources.resources
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\dotNet.csproj.GenerateResource.cache
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\dotNet.exe
+C:\Users\earli\Documents\CSharp\.NET1 project\dotNet\dotNet\obj\Debug\dotNet.pdb

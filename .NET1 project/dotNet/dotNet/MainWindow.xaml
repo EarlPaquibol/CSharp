@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:dotNet"
         mc:Ignorable="d"
         Title="LetsMakeADeal" Height="326.79" Width="534.333">
-    <Grid Margin="0,0,-8,-1" Background="#FF2DBEC5">
+    <Grid Margin="-1,0,-7,-1.2" Background="#FF2DBEC5">
         <TextBox x:Name="conName" HorizontalAlignment="Left" Height="17" Margin="194,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="138" TextAlignment="Center"/>
         <Label Content="Enter contestant's name" HorizontalAlignment="Left" Margin="194,84,0,0" VerticalAlignment="Top"/>
         <Button x:Name="playButton" Content="PLAY" HorizontalAlignment="Left" Margin="226,156,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" BorderBrush="Black" Foreground="White">
@@ -18,9 +18,9 @@
             </Button.Background>
         </Button>
         <Label Content="Welcome to let's make a deal!" HorizontalAlignment="Left" Margin="87,37,0,0" VerticalAlignment="Top" FontFamily="Segoe UI Black" FontSize="24"/>
-        <CheckBox x:Name="car" Content="Sports Car" HorizontalAlignment="Left" Margin="110,221,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_1" Width="82"/>
-        <CheckBox x:Name="house" Content="House and lot" HorizontalAlignment="Left" Margin="217,221,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked" Width="98" RenderTransformOrigin="0.558,0.346"/>
-        <CheckBox x:Name="cash" Content="Goat" HorizontalAlignment="Left" Margin="342,221,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked_2"/>
+        <CheckBox x:Name="car" Content="Sports Car" HorizontalAlignment="Left" Margin="110,221,0,0" VerticalAlignment="Top" Width="82"/>
+        <CheckBox x:Name="house" Content="House and lot" HorizontalAlignment="Left" Margin="217,221,0,0" VerticalAlignment="Top" Width="98" RenderTransformOrigin="0.558,0.346"/>
+        <CheckBox x:Name="cash" Content="Goat" HorizontalAlignment="Left" Margin="342,221,0,0" VerticalAlignment="Top"/>
         <Label Content="Which one do you want?" HorizontalAlignment="Left" Margin="194,190,0,0" VerticalAlignment="Top"/>
         <Button x:Name="played" Content="List of past contestants" HorizontalAlignment="Left" Margin="194,255,0,0" VerticalAlignment="Top" Width="137" Click="played_Click" Foreground="White" BorderBrush="Black">
             <Button.Background>
