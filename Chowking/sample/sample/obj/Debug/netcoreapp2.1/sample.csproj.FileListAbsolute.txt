@@ -1,0 +1,12 @@
+C:\Users\earli\source\repos\sample\sample\bin\Debug\netcoreapp2.1\sample.deps.json
+C:\Users\earli\source\repos\sample\sample\bin\Debug\netcoreapp2.1\sample.runtimeconfig.json
+C:\Users\earli\source\repos\sample\sample\bin\Debug\netcoreapp2.1\sample.runtimeconfig.dev.json
+C:\Users\earli\source\repos\sample\sample\bin\Debug\netcoreapp2.1\sample.dll
+C:\Users\earli\source\repos\sample\sample\bin\Debug\netcoreapp2.1\sample.pdb
+C:\Users\earli\source\repos\sample\sample\obj\Debug\netcoreapp2.1\sample.csprojAssemblyReference.cache
+C:\Users\earli\source\repos\sample\sample\obj\Debug\netcoreapp2.1\sample.AssemblyInfoInputs.cache
+C:\Users\earli\source\repos\sample\sample\obj\Debug\netcoreapp2.1\sample.AssemblyInfo.cs
+C:\Users\earli\source\repos\sample\sample\obj\Debug\netcoreapp2.1\sample.dll
+C:\Users\earli\source\repos\sample\sample\obj\Debug\netcoreapp2.1\sample.pdb
+C:\Users\earli\Documents\CSharp\sample\sample\obj\Debug\netcoreapp2.1\sample.dll
+C:\Users\earli\Documents\CSharp\sample\sample\obj\Debug\netcoreapp2.1\sample.pdb
